@@ -1,0 +1,39 @@
+{
+  "name": "@bablr/vite_plugin-cstml-to-jsx",
+  "description": "A vite plugin to turn .cstml files into JSX components",
+  "version": "0.0.0",
+  "author": "Conrad Buck<conartist6@gmail.com>",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "bablr": "0.9.0",
+    "classnames": "2.5.1",
+    "@astrojs/markdown-remark": "6.3.2",
+    "@bablr/agast-helpers": "0.8.0",
+    "@bablr/agast-vm-helpers": "0.8.0",
+    "@bablr/boot": "0.9.0",
+    "@bablr/helpers": "0.23.0",
+    "@bablr/language_enhancer-en-jsx": "0.1.0",
+    "@bablr/language-en-esnext": "0.1.0",
+    "@iter-tools/imm-stack": "1.1.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "7.24.7",
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#49f5952efed27f94ee9b94340eb1563c440bf64e",
+    "enhanced-resolve": "^5.12.0",
+    "eslint": "^8.32.0",
+    "eslint-import-resolver-enhanced-resolve": "^1.0.5",
+    "eslint-plugin-import": "^2.27.5",
+    "iter-tools-es": "^7.3.1",
+    "prettier": "^2.6.2"
+  },
+  "repository": "github:bablr-lang/vite_plugin-html-to-jsx",
+  "homepage": "https://github.com/bablr-lang/vite_plugin-html-to-jsx",
+  "license": "MIT"
+}
