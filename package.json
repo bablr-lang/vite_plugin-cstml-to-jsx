@@ -21,7 +21,7 @@
     "@bablr/helpers": "0.23.0",
     "@bablr/language_enhancer-en-jsx": "0.1.0",
     "@bablr/language-en-esnext": "0.1.0",
-    "@iter-tools/imm-stack": "1.1.0"
+    "@iter-tools/imm-stack": "1.2.0"
   },
   "devDependencies": {
     "@babel/plugin-syntax-jsx": "7.24.7",
