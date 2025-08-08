@@ -1,7 +1,7 @@
 {
   "name": "@bablr/vite_plugin-cstml-to-jsx",
   "description": "A vite plugin to turn .cstml files into JSX components",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "author": "Conrad Buck<conartist6@gmail.com>",
   "type": "module",
   "files": [
@@ -12,7 +12,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "bablr": "0.10.0",
+    "bablr": "0.10.1",
     "classnames": "2.5.1",
     "@astrojs/markdown-remark": "6.3.2",
     "@bablr/agast-helpers": "0.9.0",
