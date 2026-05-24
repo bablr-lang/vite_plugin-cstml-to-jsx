@@ -12,17 +12,17 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "bablr": "0.12.5",
+    "bablr": "0.12.6",
     "classnames": "2.5.1",
     "github-slugger": "2.0.0",
     "smol-toml": "1.6.0",
     "js-yaml": "4.1.1",
-    "@bablr/agast-helpers": "0.11.3",
-    "@bablr/agast-vm-helpers": "0.11.3",
+    "@bablr/agast-helpers": "0.11.4",
+    "@bablr/agast-vm-helpers": "0.11.4",
     "@bablr/record": "1.0.0",
-    "@bablr/helpers": "0.26.4",
-    "@bablr/language_enhancer-en-jsx": "0.4.0",
-    "@bablr/language-en-esnext": "0.4.0",
+    "@bablr/helpers": "0.26.5",
+    "@bablr/language_enhancer-en-jsx": "0.4.1",
+    "@bablr/language-en-esnext": "0.4.1",
     "@iter-tools/imm-stack": "1.2.0"
   },
   "devDependencies": {
